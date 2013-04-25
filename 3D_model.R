@@ -34,4 +34,3 @@ if(smooth){
 
 rgl.open()
 rgl.surface(x, y, max(z)-z, color=col, back="lines")
-
